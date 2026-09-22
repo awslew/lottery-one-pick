@@ -1,0 +1,5 @@
+# 数据表是二进制 xlsx：别在 diff 里逐字节展开
+*.xlsx binary
+
+# 统一行尾：仓库内一律 LF，Windows 检出也不会被自动改成 CRLF
+* text=auto eol=lf

@@ -1,0 +1,20 @@
+# 出号产物（含你的投注记录，不要提交）
+我的_*注.txt
+出号记录.txt
+!我的_示例.txt
+
+# 更新数据时产生的快照
+data/大乐透历史开奖数据_含*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
