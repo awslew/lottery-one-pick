@@ -1,4 +1,4 @@
-# dlt-one-pick
+# lottery-one-pick
 
 每期**只出 1 注**的超级大乐透选号工具：在你自己排除过的号池里随机抽一注，再让它通过
 「历史关 + 前区关 + 后区关」三道筛选。
@@ -193,7 +193,7 @@ export DLT_DATA=~/我的数据/开奖数据.xlsx
 ## 目录结构
 
 ```
-dlt-one-pick/
+lottery-one-pick/
 ├── dlt_pick_one.py     # 主脚本：排除池随机 1 注 + 三关过筛（主开关宿主）
 ├── lottery_core.py     # 规则引擎：13 条规则 + 历史杀号 + 奖金表（纯函数，无副作用）
 ├── filter_check.py     # 筛号器：单注/批量过筛，并报出被哪条挡住
