@@ -1,10 +1,8 @@
 # lottery-one-pick
 
-每期**只出 1 注**的超级大乐透选号工具：在你自己排除过的号池里随机抽一注，再让它通过
-「历史关 + 前区关 + 后区关」三道筛选。
+每期只想留 **1 注**大乐透号码，有自己要排除的数字，也希望把选号过程记下来、开奖后方便核对？这个工具按你的排除号随机出一注，用预设规则筛掉全奇、长连号等极端形态，保存记录并在开奖后对账。它**不预测中奖，也不提高中奖概率**。
 
-*A one-ticket-per-draw picker for China's Super Lotto (大乐透): sample one ticket from your
-filtered number pool, then validate it against 13 structural rules and a history-collision check.*
+*Pick one China Super Lotto ticket per draw from a pool you filtered yourself, save the result and check it after the draw. Pattern filtering does not predict or improve your odds.*
 
 ---
 
